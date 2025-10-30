@@ -45,4 +45,4 @@ Each project is fully self-contained to make the code easy to read and evaluate 
 3. touch index.html script.js style.css
 
 ## Purpose
-The goal here is to get more comfortable writing vanilla JavaScript and working directly with the browser DOM, instead of relying on frameworks. These small projects help reinforce core concepts by building things from scratch.
+The goal here is to get more comfortable writing **vanilla JavaScript** and working directly with the browser DOM, instead of relying on frameworks. These small projects help reinforce core concepts by building things from scratch.
