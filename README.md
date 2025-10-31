@@ -29,7 +29,7 @@ Each project is fully self-contained to make the code easy to read and evaluate 
 ## Projects
 | Project Name | Concept Demonstrated | Status |
 |-------------|----------------|--------|
-| popup-example | UI interaction & DOM updates | ✅ |
+| popup | UI interaction & DOM updates | ✅ |
 | counter-with-intervals | Timers (`setInterval` / `setTimeout`) | ⬜ |
 | color-change-button | Event handling | ⬜ |
 | todo-list | Form input + validation | ⬜ |
