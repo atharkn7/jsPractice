@@ -30,7 +30,7 @@ Each project is fully self-contained to make the code easy to read and evaluate 
 | Project Name | Concept Demonstrated | Status |
 |-------------|----------------|--------|
 | popup | UI interaction & DOM updates | ✅ |
-| counter-with-intervals | Timers (`setInterval` / `setTimeout`) | ⬜ |
+| counter | Timers (`setInterval` / `setTimeout`) & Local Storage | ✅ |
 | color-change | Event handling | ✅ |
 | todo-list | Form input + validation | ✅ |
 | currency-converter-fetch | Fetch API + `async/await` (AJAX request) | ⬜ |
