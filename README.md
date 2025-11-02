@@ -32,7 +32,7 @@ Each project is fully self-contained to make the code easy to read and evaluate 
 | popup | UI interaction & DOM updates | ✅ |
 | counter-with-intervals | Timers (`setInterval` / `setTimeout`) | ⬜ |
 | color-change | Event handling | ✅ |
-| todo-list | Form input + validation | ⬜ |
+| todo-list | Form input + validation | ✅ |
 | currency-converter-fetch | Fetch API + `async/await` (AJAX request) | ⬜ |
 
 > The project list will be updated as new exercises are completed.
