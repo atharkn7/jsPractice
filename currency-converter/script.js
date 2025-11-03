@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     document.querySelector('form').onsubmit = () => {
         // Fetch data from API
-        fetch('https://api.exchangeratesapi.io/v1/latest?access_key=4ecb5d62c34145cf45bd78184a1dd4ef&format=1')
+        fetch('https://api.exchangeratesapi.io/v1/latest?access_key={ACTUAL KEY}')
             .then(response => response.json())  // Converting response to JSON
             .then(data => {
 
