@@ -33,7 +33,7 @@ Each project is fully self-contained to make the code easy to read and evaluate 
 | counter | Timers (`setInterval` / `setTimeout`) & Local Storage | ✅ |
 | color-change | Event handling | ✅ |
 | todo-list | Form input + validation | ✅ |
-| currency-converter-fetch | Fetch API + `async/await` (AJAX request) | ⬜ |
+| currency-converter | Fetch API + `async/await` (AJAX request) | ⬜ |
 
 > The project list will be updated as new exercises are completed.
 
